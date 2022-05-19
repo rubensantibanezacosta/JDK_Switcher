@@ -3,19 +3,24 @@
   "version": "1.0.0",
   "description": "A simple JDK switcher GUI",
   "main": "main.js",
+  "repository": {
+    "url": "https://github.com/rubensantibanezacosta/JDK_Switcher",
+    "type": "git"
+  },
   "scripts": {
     "start": "electron ."
   },
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "JDK",
+    "switcher",
+    "Java",
+    "Gui"
   ],
   "author": "Ruben Santibañez Acosta <rubensantibanezacosta902@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^11.5.0"
+    "electron": "^11.5.0",
+    "electron-reload": "^2.0.0-alpha.1"
   }
 }
