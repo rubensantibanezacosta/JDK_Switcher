@@ -1,0 +1,21 @@
+{
+  "name": "jdkswitcher",
+  "version": "1.0.0",
+  "description": "A simple JDK switcher GUI",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Ruben Santibañez Acosta <rubensantibanezacosta902@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^11.5.0"
+  }
+}
